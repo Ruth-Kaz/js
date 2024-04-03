@@ -112,3 +112,4 @@ We do that by giving it the number of the toy (or item) we want to take out - no
 
 So, when we write newarray.splice(array - 1, 1), it's like saying, "Take out the toy that's in the box at position 'array - 1'." We're telling it exactly which toy 
 to take out, not doing math with the whole box.*/
+
